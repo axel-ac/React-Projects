@@ -10,6 +10,12 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Hospital App</td></td>
+      <td><a href="https://github.com/axel-ac/appoinment-hospital" target="_blank">Repo Details</td>
+      <td><a href="https://appointment-hospital.vercel.app/" target="_blank">Live App</td>
+      <td><img src="https://user-images.githubusercontent.com/102467587/247608963-7c7f1cab-d5d0-4492-a95c-f299455e783d.gif" alt="Hospital App"></td>
+    </tr>
      <tr>
       <td>NBA Legends App</td></td>
       <td><a href="https://github.com/axel-ac/nba-legends" target="_blank">Repo Details</td>
