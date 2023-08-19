@@ -14,13 +14,12 @@
       <td>Ceylan Library</td></td>
       <td><a href="https://github.com/axel-ac/ceylan-library" target="_blank">Repo Details</td>
       <td><a href="https://ceylan-library.netlify.app/" target="_blank">Live App</td>
-      <td><img src="![library](https://github.com/axel-ac/React-Projects/assets/102467587/af36be6b-6902-459b-b5d2-b1be50e25644)
-" alt="Ceylan Library"></td>
+      <td><img src="https://github.com/axel-ac/ceylan-library/assets/102467587/9db820b1-6aee-47b1-8585-790c96fc9838" alt="Ceylan Library"></td>
     </tr>
      <tr>
       <td>Contact App</td></td>
       <td><a href="https://github.com/axel-ac/contact-app" target="_blank">Repo Details</td>
-      <td><a href="[https://appointment-hospital.vercel.app/](https://contact-reactjs.netlify.app/)" target="_blank">Live App</td>
+      <td><a href="https://contact-reactjs.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://user-images.githubusercontent.com/102467587/247260180-6e96736f-ab2f-4f18-8944-65aaecdcefd3.gif" alt="Contact App"></td>
     </tr>
     <tr>
