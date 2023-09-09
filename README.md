@@ -16,6 +16,12 @@
       <td><a href="https://ceylan-library.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://github.com/axel-ac/ceylan-library/assets/102467587/9db820b1-6aee-47b1-8585-790c96fc9838" alt="Ceylan Library"></td>
     </tr>
+    <tr>
+      <td>Europe</td></td>
+      <td><a href="https://github.com/axel-ac/europe" target="_blank">Repo Details</td>
+      <td><a href="https://react-europe.netlify.app/" target="_blank">Live App</td>
+      <td><img src="https://github.com/axel-ac/europe/assets/102467587/3657bfc7-a1eb-4e17-be16-3695c5cc8c80" alt="Europe"></td>
+    </tr>
      <tr>
       <td>Contact App</td></td>
       <td><a href="https://github.com/axel-ac/contact-app" target="_blank">Repo Details</td>
@@ -33,6 +39,12 @@
       <td><a href="https://github.com/axel-ac/nba-legends" target="_blank">Repo Details</td>
       <td><a href="https://nba-legends-react.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://user-images.githubusercontent.com/102467587/223734853-6621024d-fe0e-4530-ba28-ddac4ddec867.gif" alt="NBA Legends App"></td>
+    </tr>
+    <tr>
+      <td>Football Legends</td></td>
+      <td><a href="https://github.com/axel-ac/football-legends" target="_blank">Repo Details</td>
+      <td><a href="https://football-legends-react.netlify.app/" target="_blank">Live App</td>
+      <td><img src="https://github.com/axel-ac/football-legends/assets/102467587/3217adc3-3196-40b1-91c6-701b7c805fe6" alt="Football Legends"></td>
     </tr>
     <tr>
       <td>Horoscope -Scss-</td></td>
